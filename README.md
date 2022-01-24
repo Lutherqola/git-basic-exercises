@@ -1,5 +1,2 @@
 booya
-<<<<<<< HEAD
-=======
-booya
->>>>>>> history
+
